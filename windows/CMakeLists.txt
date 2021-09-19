@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(flutter_shop_app LANGUAGES CXX)
+project(flutter_shop_app_form LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_shop_app")
+set(BINARY_NAME "flutter_shop_app_form")
 
 cmake_policy(SET CMP0063 NEW)
 
